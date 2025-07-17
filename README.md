@@ -28,7 +28,7 @@ REST API сервис для маркетплейса с возможность�
 
 1) Клонируйте репозиторий:
 ```bash
-git clone #TODO
+git clone https://github.com/GlebDontsov/marketplace.git
 cd marketplace
 ```
 2) Запустите сервис: 
